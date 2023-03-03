@@ -956,6 +956,8 @@ header .navbar-default .navbar-header {
 
 .prod-i img {
 	width: 100%;
+	height: 180px;
+	margin-right: 2px;
 }
 
 .left-ti {
