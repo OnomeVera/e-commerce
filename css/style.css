@@ -173,7 +173,7 @@ header .navbar-default .navbar-header {
 
 .web-sh.navbar-form input::-moz-placeholder {
 	/* Firefox 19+ */
-	color #474747;
+	color:#474747;
 	opacity: 1;
 }
 
@@ -274,7 +274,6 @@ header .navbar-default .navbar-header {
 
 .top-nav ul li a {
 	color: #fff;
-	font-family: ;
 	font-size: 14px;
 	font-weight: 400;
 }
@@ -667,11 +666,12 @@ header .navbar-default .navbar-header {
 	margin-top: -80px;
 }
 
-.cat-main-box .panel .panel-body {
+.cat-main-box .panel .panel-body{
 	padding: 35px 40px;
 	background: #fff;
 }
 
+  
 .cat-main-box .panel .icon-small {
 	margin-bottom: 15px;
 }
@@ -956,6 +956,8 @@ header .navbar-default .navbar-header {
 
 .prod-i img {
 	width: 100%;
+	height: 180px;
+	margin-right: 2px;
 }
 
 .left-ti {
@@ -1683,14 +1685,14 @@ header .navbar-default .navbar-header {
 
 .does-box {
 	margin-bottom: 20px;
-	background-color: #fff;
+	background-color: #b3e2f1;
 	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
 	box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
 }
 
 .does-box .panel-body {
 	padding: 58px 65px;
-	background: #FFF;
+	background: #b3e2f1;
 }
 
 .main-template-about .does-box .panel-body h2 {
